@@ -1,0 +1,1 @@
+# Medisynth.AI-for-Disease-Prediction
